@@ -1,0 +1,5 @@
+hub hub
+shortLabel Mouse PFC snm3c
+longLabel mouse prefrontal cortex single cell DNA methylation
+genomesFile mpfc_snm3c.genomes.txt
+email wding@salk.edu

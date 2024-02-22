@@ -1,0 +1,1055 @@
+track Inh-CGN-cov
+shortLabel Inh-CGN
+longLabel Inh-CGN-cov
+type bigWig
+visibility hide
+compositeTrack on
+
+    track Inh-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632501
+    shortLabel Inh-CGN-cov
+    longLabel MGE-Pvalb.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-cov on
+
+    track Inh-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632525
+    shortLabel Inh-CGN-cov
+    longLabel CGE-Vip.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-cov on
+
+    track Inh-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632570
+    shortLabel Inh-CGN-cov
+    longLabel CGE-Lamp5.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-cov on
+
+    track Inh-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632630
+    shortLabel Inh-CGN-cov
+    longLabel MGE-Sst.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-cov on
+
+track Inh-CHN-frac
+shortLabel Inh-CHN
+longLabel Inh-CHN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Inh-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632504
+    shortLabel Inh-CHN-frac
+    longLabel MGE-Pvalb.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CHN-frac on
+
+    track Inh-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44633095
+    shortLabel Inh-CHN-frac
+    longLabel CGE-Lamp5.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CHN-frac on
+
+    track Inh-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44633110
+    shortLabel Inh-CHN-frac
+    longLabel MGE-Sst.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CHN-frac on
+
+    track Inh-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634901
+    shortLabel Inh-CHN-frac
+    longLabel CGE-Vip.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CHN-frac on
+
+track P-CGN-cov
+shortLabel P-CGN
+longLabel P-CGN-cov
+type bigWig
+visibility hide
+compositeTrack on
+
+    track P-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632507
+    shortLabel P-CGN-cov
+    longLabel MGE-IP.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-cov on
+
+    track P-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632645
+    shortLabel P-CGN-cov
+    longLabel CThPN.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-cov on
+
+    track P-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632669
+    shortLabel P-CGN-cov
+    longLabel SCPN.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-cov on
+
+    track P-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632900
+    shortLabel P-CGN-cov
+    longLabel AP.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-cov on
+
+    track P-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44633143
+    shortLabel P-CGN-cov
+    longLabel CGE-IP.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-cov on
+
+    track P-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44634847
+    shortLabel P-CGN-cov
+    longLabel CPN.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-cov on
+
+track NonN-CHN-frac
+shortLabel NonN-CHN
+longLabel NonN-CHN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632510
+    shortLabel NonN-CHN-frac
+    longLabel OPC.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632519
+    shortLabel NonN-CHN-frac
+    longLabel PC.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632576
+    shortLabel NonN-CHN-frac
+    longLabel ODC.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632933
+    shortLabel NonN-CHN-frac
+    longLabel VLMC.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632936
+    shortLabel NonN-CHN-frac
+    longLabel EC.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634886
+    shortLabel NonN-CHN-frac
+    longLabel VLMC-Pia.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634889
+    shortLabel NonN-CHN-frac
+    longLabel MGC.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+    track NonN-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634940
+    shortLabel NonN-CHN-frac
+    longLabel ASC.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CHN-frac on
+
+track Exc-CGN-cov
+shortLabel Exc-CGN
+longLabel Exc-CGN-cov
+type bigWig
+visibility hide
+compositeTrack on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632513
+    shortLabel Exc-CGN-cov
+    longLabel CT-L6.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632516
+    shortLabel Exc-CGN-cov
+    longLabel NP-L6.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632582
+    shortLabel Exc-CGN-cov
+    longLabel Exc-Unk.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632603
+    shortLabel Exc-CGN-cov
+    longLabel IT-L23.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632681
+    shortLabel Exc-CGN-cov
+    longLabel L6b.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44633002
+    shortLabel Exc-CGN-cov
+    longLabel IT-L6.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44634850
+    shortLabel Exc-CGN-cov
+    longLabel IT-L4.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44634913
+    shortLabel Exc-CGN-cov
+    longLabel IT-L5.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+    track Exc-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44634964
+    shortLabel Exc-CGN-cov
+    longLabel ET-L5.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-cov on
+
+track Exc-CGN-frac
+shortLabel Exc-CGN
+longLabel Exc-CGN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632531
+    shortLabel Exc-CGN-frac
+    longLabel IT-L23.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632537
+    shortLabel Exc-CGN-frac
+    longLabel ET-L5.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632612
+    shortLabel Exc-CGN-frac
+    longLabel Exc-Unk.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632672
+    shortLabel Exc-CGN-frac
+    longLabel IT-L6.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632930
+    shortLabel Exc-CGN-frac
+    longLabel CT-L6.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44633134
+    shortLabel Exc-CGN-frac
+    longLabel L6b.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634652
+    shortLabel Exc-CGN-frac
+    longLabel NP-L6.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634907
+    shortLabel Exc-CGN-frac
+    longLabel IT-L4.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+    track Exc-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634922
+    shortLabel Exc-CGN-frac
+    longLabel IT-L5.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CGN-frac on
+
+track NonN-CGN-frac
+shortLabel NonN-CGN
+longLabel NonN-CGN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632540
+    shortLabel NonN-CGN-frac
+    longLabel PC.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632591
+    shortLabel NonN-CGN-frac
+    longLabel VLMC-Pia.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632609
+    shortLabel NonN-CGN-frac
+    longLabel ASC.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632684
+    shortLabel NonN-CGN-frac
+    longLabel ODC.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632882
+    shortLabel NonN-CGN-frac
+    longLabel VLMC.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632903
+    shortLabel NonN-CGN-frac
+    longLabel EC.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632927
+    shortLabel NonN-CGN-frac
+    longLabel MGC.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+    track NonN-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634853
+    shortLabel NonN-CGN-frac
+    longLabel OPC.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-frac on
+
+track P-CGN-frac
+shortLabel P-CGN
+longLabel P-CGN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track P-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632543
+    shortLabel P-CGN-frac
+    longLabel AP.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-frac on
+
+    track P-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632564
+    shortLabel P-CGN-frac
+    longLabel CPN.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-frac on
+
+    track P-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632663
+    shortLabel P-CGN-frac
+    longLabel CThPN.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-frac on
+
+    track P-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632885
+    shortLabel P-CGN-frac
+    longLabel CGE-IP.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-frac on
+
+    track P-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634910
+    shortLabel P-CGN-frac
+    longLabel SCPN.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-frac on
+
+    track P-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634946
+    shortLabel P-CGN-frac
+    longLabel MGE-IP.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CGN-frac on
+
+track NonN-CGN-cov
+shortLabel NonN-CGN
+longLabel NonN-CGN-cov
+type bigWig
+visibility hide
+compositeTrack on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632555
+    shortLabel NonN-CGN-cov
+    longLabel PC.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632642
+    shortLabel NonN-CGN-cov
+    longLabel EC.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632666
+    shortLabel NonN-CGN-cov
+    longLabel VLMC-Pia.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632675
+    shortLabel NonN-CGN-cov
+    longLabel MGC.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632876
+    shortLabel NonN-CGN-cov
+    longLabel ODC.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632888
+    shortLabel NonN-CGN-cov
+    longLabel OPC.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44632942
+    shortLabel NonN-CGN-cov
+    longLabel VLMC.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+    track NonN-CGN-cov
+    bigDataUrl https://figshare.com/ndownloader/files/44634682
+    shortLabel NonN-CGN-cov
+    longLabel ASC.CGN-both.cov
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NonN-CGN-cov on
+
+track Inh-CGN-frac
+shortLabel Inh-CGN
+longLabel Inh-CGN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Inh-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632558
+    shortLabel Inh-CGN-frac
+    longLabel MGE-Pvalb.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-frac on
+
+    track Inh-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632600
+    shortLabel Inh-CGN-frac
+    longLabel CGE-Lamp5.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-frac on
+
+    track Inh-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632687
+    shortLabel Inh-CGN-frac
+    longLabel MGE-Sst.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-frac on
+
+    track Inh-CGN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44633107
+    shortLabel Inh-CGN-frac
+    longLabel CGE-Vip.CGN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Inh-CGN-frac on
+
+track P-CHN-frac
+shortLabel P-CHN
+longLabel P-CHN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track P-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632573
+    shortLabel P-CHN-frac
+    longLabel SCPN.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CHN-frac on
+
+    track P-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632588
+    shortLabel P-CHN-frac
+    longLabel AP.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CHN-frac on
+
+    track P-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44633140
+    shortLabel P-CHN-frac
+    longLabel MGE-IP.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CHN-frac on
+
+    track P-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634844
+    shortLabel P-CHN-frac
+    longLabel CThPN.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CHN-frac on
+
+    track P-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634898
+    shortLabel P-CHN-frac
+    longLabel CGE-IP.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CHN-frac on
+
+    track P-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634961
+    shortLabel P-CHN-frac
+    longLabel CPN.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent P-CHN-frac on
+
+track Exc-CHN-frac
+shortLabel Exc-CHN
+longLabel Exc-CHN-frac
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632585
+    shortLabel Exc-CHN-frac
+    longLabel IT-L6.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632594
+    shortLabel Exc-CHN-frac
+    longLabel L6b.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632891
+    shortLabel Exc-CHN-frac
+    longLabel IT-L4.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44632939
+    shortLabel Exc-CHN-frac
+    longLabel Exc-Unk.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44633101
+    shortLabel Exc-CHN-frac
+    longLabel CT-L6.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634676
+    shortLabel Exc-CHN-frac
+    longLabel IT-L5.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634919
+    shortLabel Exc-CHN-frac
+    longLabel ET-L5.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634925
+    shortLabel Exc-CHN-frac
+    longLabel IT-L23.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
+
+    track Exc-CHN-frac
+    bigDataUrl https://figshare.com/ndownloader/files/44634970
+    shortLabel Exc-CHN-frac
+    longLabel NP-L6.CHN-both.frac
+    type bigWig
+    visibility dense
+    color 46,52,64
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Exc-CHN-frac on
