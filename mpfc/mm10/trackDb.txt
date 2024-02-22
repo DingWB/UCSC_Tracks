@@ -69,7 +69,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Inh-CHN-frac on
 
     track Inh-CHN-frac-CGE-Lamp5
@@ -81,7 +81,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Inh-CHN-frac on
 
     track Inh-CHN-frac-MGE-Sst
@@ -93,7 +93,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Inh-CHN-frac on
 
     track Inh-CHN-frac-CGE-Vip
@@ -105,7 +105,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Inh-CHN-frac on
 
 track P-CGN-cov
@@ -203,7 +203,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
     track NonN-CHN-frac-PC
@@ -215,7 +215,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
     track NonN-CHN-frac-ODC
@@ -227,7 +227,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
     track NonN-CHN-frac-VLMC
@@ -239,7 +239,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
     track NonN-CHN-frac-EC
@@ -251,7 +251,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
     track NonN-CHN-frac-VLMC-Pia
@@ -263,7 +263,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
     track NonN-CHN-frac-MGC
@@ -275,7 +275,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
     track NonN-CHN-frac-ASC
@@ -287,7 +287,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent NonN-CHN-frac on
 
 track Exc-CGN-cov
@@ -876,7 +876,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent P-CHN-frac on
 
     track P-CHN-frac-AP
@@ -888,7 +888,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent P-CHN-frac on
 
     track P-CHN-frac-MGE-IP
@@ -900,7 +900,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent P-CHN-frac on
 
     track P-CHN-frac-CThPN
@@ -912,7 +912,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent P-CHN-frac on
 
     track P-CHN-frac-CGE-IP
@@ -924,7 +924,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent P-CHN-frac on
 
     track P-CHN-frac-CPN
@@ -936,7 +936,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent P-CHN-frac on
 
 track Exc-CHN-frac
@@ -955,7 +955,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-L6b
@@ -967,7 +967,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-IT-L4
@@ -979,7 +979,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-Exc-Unk
@@ -991,7 +991,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-CT-L6
@@ -1003,7 +1003,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-IT-L5
@@ -1015,7 +1015,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-ET-L5
@@ -1027,7 +1027,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-IT-L23
@@ -1039,7 +1039,7 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
 
     track Exc-CHN-frac-NP-L6
@@ -1051,5 +1051,5 @@ compositeTrack on
     color 210,105,30
     autoScale on
     maxHeightPixels 100:15:5
-    viewLimits 0:0.1
+    viewLimits 0:0.06
     parent Exc-CHN-frac on
