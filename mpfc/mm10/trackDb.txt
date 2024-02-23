@@ -12,7 +12,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -24,7 +24,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -36,7 +36,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -48,7 +48,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -60,7 +60,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -72,7 +72,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -84,7 +84,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -96,7 +96,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -108,7 +108,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-cov on
@@ -127,7 +127,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -139,7 +139,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -151,7 +151,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -163,7 +163,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -175,7 +175,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -187,7 +187,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -199,7 +199,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -211,7 +211,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -223,7 +223,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Exc-CGN-frac on
@@ -472,7 +472,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-cov on
@@ -484,7 +484,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-cov on
@@ -496,7 +496,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-cov on
@@ -508,7 +508,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-cov on
@@ -527,7 +527,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-frac on
@@ -539,7 +539,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-frac on
@@ -551,7 +551,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-frac on
@@ -563,7 +563,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent Inh-CGN-frac on
@@ -692,7 +692,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -704,7 +704,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -716,7 +716,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -728,7 +728,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -740,7 +740,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -752,7 +752,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -764,7 +764,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -776,7 +776,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-cov on
@@ -795,7 +795,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -807,7 +807,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -819,7 +819,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -831,7 +831,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -843,7 +843,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -855,7 +855,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -867,7 +867,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -879,7 +879,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent NonN-CGN-frac on
@@ -1104,7 +1104,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-cov on
@@ -1116,7 +1116,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-cov on
@@ -1128,7 +1128,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-cov on
@@ -1140,7 +1140,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-cov on
@@ -1152,7 +1152,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-cov on
@@ -1164,7 +1164,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-cov on
@@ -1183,7 +1183,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-frac on
@@ -1195,7 +1195,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-frac on
@@ -1207,7 +1207,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-frac on
@@ -1219,7 +1219,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-frac on
@@ -1231,7 +1231,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-frac on
@@ -1243,7 +1243,7 @@ compositeTrack on
     type bigWig
     visibility dense
     color 0,0,255
-    autoScale on
+    autoScale off
     maxHeightPixels 100:15:5
     viewLimits 0:1
     parent P-CGN-frac on
