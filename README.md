@@ -49,6 +49,6 @@ make_trackhub(
 	short_label='Aging Mouse Brain',
     long_label='Aging Mouse Brain -Single Cell DNA Methylation',
 	genome="mm10",email="qzeng@salk.edu",
-	mc_types=['CGN','CHN'],count_types=['frac','cov'],
+	mc_types=['CGN'],count_types=['frac'],
 	max_mch=0.06)
 ```
