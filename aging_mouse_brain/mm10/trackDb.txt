@@ -1,0 +1,2450 @@
+track Astro-NT_NN-CGN-frac
+shortLabel Astro-NT_NN-CGN-frac
+longLabel Aging Mouse Brain Astro-NT_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Astro-NT_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646487
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Astro-NT_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro-NT_NN-CGN-frac on
+
+    track Astro-NT_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646913
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Astro-NT_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro-NT_NN-CGN-frac on
+
+    track Astro-NT_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645497
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Astro-NT_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro-NT_NN-CGN-frac on
+
+track Astro-TE_NN-CGN-frac
+shortLabel Astro-TE_NN-CGN-frac
+longLabel Aging Mouse Brain Astro-TE_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Astro-TE_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645689
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Astro-TE_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro-TE_NN-CGN-frac on
+
+    track Astro-TE_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646244
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Astro-TE_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro-TE_NN-CGN-frac on
+
+    track Astro-TE_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646838
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Astro-TE_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro-TE_NN-CGN-frac on
+
+track Astro_NN-CGN-frac
+shortLabel Astro_NN-CGN-frac
+longLabel Aging Mouse Brain Astro_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Astro_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646880
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Astro_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro_NN-CGN-frac on
+
+    track Astro_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646517
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Astro_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro_NN-CGN-frac on
+
+    track Astro_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645272
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Astro_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Astro_NN-CGN-frac on
+
+track CA1-ProS_Glut-CGN-frac
+shortLabel CA1-ProS_Glut-CGN-frac
+longLabel Aging Mouse Brain CA1-ProS_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track CA1-ProS_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645752
+    shortLabel 9mo
+    longLabel Aging Mouse Brain CA1-ProS_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA1-ProS_Glut-CGN-frac on
+
+    track CA1-ProS_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646592
+    shortLabel 8wk
+    longLabel Aging Mouse Brain CA1-ProS_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA1-ProS_Glut-CGN-frac on
+
+    track CA1-ProS_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645998
+    shortLabel 18mo
+    longLabel Aging Mouse Brain CA1-ProS_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA1-ProS_Glut-CGN-frac on
+
+track CA2-FC-IG_Glut-CGN-frac
+shortLabel CA2-FC-IG_Glut-CGN-frac
+longLabel Aging Mouse Brain CA2-FC-IG_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track CA2-FC-IG_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646757
+    shortLabel 9mo
+    longLabel Aging Mouse Brain CA2-FC-IG_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA2-FC-IG_Glut-CGN-frac on
+
+    track CA2-FC-IG_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645821
+    shortLabel 8wk
+    longLabel Aging Mouse Brain CA2-FC-IG_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA2-FC-IG_Glut-CGN-frac on
+
+    track CA2-FC-IG_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645653
+    shortLabel 18mo
+    longLabel Aging Mouse Brain CA2-FC-IG_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA2-FC-IG_Glut-CGN-frac on
+
+track CA3_Glut-CGN-frac
+shortLabel CA3_Glut-CGN-frac
+longLabel Aging Mouse Brain CA3_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track CA3_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645932
+    shortLabel 8wk
+    longLabel Aging Mouse Brain CA3_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA3_Glut-CGN-frac on
+
+    track CA3_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645737
+    shortLabel 18mo
+    longLabel Aging Mouse Brain CA3_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA3_Glut-CGN-frac on
+
+    track CA3_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645395
+    shortLabel 9mo
+    longLabel Aging Mouse Brain CA3_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CA3_Glut-CGN-frac on
+
+track CEA-BST_Gaba-CGN-frac
+shortLabel CEA-BST_Gaba-CGN-frac
+longLabel Aging Mouse Brain CEA-BST_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track CEA-BST_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645716
+    shortLabel 18mo
+    longLabel Aging Mouse Brain CEA-BST_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CEA-BST_Gaba-CGN-frac on
+
+    track CEA-BST_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645359
+    shortLabel 9mo
+    longLabel Aging Mouse Brain CEA-BST_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CEA-BST_Gaba-CGN-frac on
+
+    track CEA-BST_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646925
+    shortLabel 8wk
+    longLabel Aging Mouse Brain CEA-BST_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CEA-BST_Gaba-CGN-frac on
+
+track CHOR_NN-CGN-frac
+shortLabel CHOR_NN-CGN-frac
+longLabel Aging Mouse Brain CHOR_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track CHOR_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645749
+    shortLabel 18mo
+    longLabel Aging Mouse Brain CHOR_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CHOR_NN-CGN-frac on
+
+    track CHOR_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646307
+    shortLabel 9mo
+    longLabel Aging Mouse Brain CHOR_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CHOR_NN-CGN-frac on
+
+    track CHOR_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646688
+    shortLabel 8wk
+    longLabel Aging Mouse Brain CHOR_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CHOR_NN-CGN-frac on
+
+track CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac
+shortLabel CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac
+longLabel Aging Mouse Brain CS-PRNr-DR_En1_Sox2_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646250
+    shortLabel 9mo
+    longLabel Aging Mouse Brain CS-PRNr-DR_En1_Sox2_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac on
+
+    track CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645803
+    shortLabel 18mo
+    longLabel Aging Mouse Brain CS-PRNr-DR_En1_Sox2_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac on
+
+    track CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645398
+    shortLabel 8wk
+    longLabel Aging Mouse Brain CS-PRNr-DR_En1_Sox2_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent CS-PRNr-DR_En1_Sox2_Gaba-CGN-frac on
+
+track DG-PIR_Ex_IMN-CGN-frac
+shortLabel DG-PIR_Ex_IMN-CGN-frac
+longLabel Aging Mouse Brain DG-PIR_Ex_IMN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track DG-PIR_Ex_IMN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645167
+    shortLabel 9mo
+    longLabel Aging Mouse Brain DG-PIR_Ex_IMN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DG-PIR_Ex_IMN-CGN-frac on
+
+    track DG-PIR_Ex_IMN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646022
+    shortLabel 8wk
+    longLabel Aging Mouse Brain DG-PIR_Ex_IMN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DG-PIR_Ex_IMN-CGN-frac on
+
+    track DG-PIR_Ex_IMN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646247
+    shortLabel 18mo
+    longLabel Aging Mouse Brain DG-PIR_Ex_IMN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DG-PIR_Ex_IMN-CGN-frac on
+
+track DGNBL_Glut-CGN-frac
+shortLabel DGNBL_Glut-CGN-frac
+longLabel Aging Mouse Brain DGNBL_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track DGNBL_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645665
+    shortLabel 9mo
+    longLabel Aging Mouse Brain DGNBL_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DGNBL_Glut-CGN-frac on
+
+    track DGNBL_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645353
+    shortLabel 8wk
+    longLabel Aging Mouse Brain DGNBL_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DGNBL_Glut-CGN-frac on
+
+    track DGNBL_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646598
+    shortLabel 18mo
+    longLabel Aging Mouse Brain DGNBL_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DGNBL_Glut-CGN-frac on
+
+track DG_Glut-CGN-frac
+shortLabel DG_Glut-CGN-frac
+longLabel Aging Mouse Brain DG_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track DG_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646064
+    shortLabel 18mo
+    longLabel Aging Mouse Brain DG_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DG_Glut-CGN-frac on
+
+    track DG_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646943
+    shortLabel 9mo
+    longLabel Aging Mouse Brain DG_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DG_Glut-CGN-frac on
+
+    track DG_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645677
+    shortLabel 8wk
+    longLabel Aging Mouse Brain DG_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent DG_Glut-CGN-frac on
+
+track ENTmv-PA-COAp_Glut-CGN-frac
+shortLabel ENTmv-PA-COAp_Glut-CGN-frac
+longLabel Aging Mouse Brain ENTmv-PA-COAp_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track ENTmv-PA-COAp_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645482
+    shortLabel 8wk
+    longLabel Aging Mouse Brain ENTmv-PA-COAp_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent ENTmv-PA-COAp_Glut-CGN-frac on
+
+    track ENTmv-PA-COAp_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646460
+    shortLabel 18mo
+    longLabel Aging Mouse Brain ENTmv-PA-COAp_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent ENTmv-PA-COAp_Glut-CGN-frac on
+
+    track ENTmv-PA-COAp_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646712
+    shortLabel 9mo
+    longLabel Aging Mouse Brain ENTmv-PA-COAp_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent ENTmv-PA-COAp_Glut-CGN-frac on
+
+track Endo_NN-CGN-frac
+shortLabel Endo_NN-CGN-frac
+longLabel Aging Mouse Brain Endo_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Endo_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646316
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Endo_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Endo_NN-CGN-frac on
+
+    track Endo_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646010
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Endo_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Endo_NN-CGN-frac on
+
+    track Endo_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646004
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Endo_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Endo_NN-CGN-frac on
+
+track L23_IT_CTX_Glut-CGN-frac
+shortLabel L23_IT_CTX_Glut-CGN-frac
+longLabel Aging Mouse Brain L23_IT_CTX_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L23_IT_CTX_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645464
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L23_IT_CTX_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_CTX_Glut-CGN-frac on
+
+    track L23_IT_CTX_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646874
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L23_IT_CTX_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_CTX_Glut-CGN-frac on
+
+    track L23_IT_CTX_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645260
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L23_IT_CTX_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_CTX_Glut-CGN-frac on
+
+track L23_IT_ENT_Glut-CGN-frac
+shortLabel L23_IT_ENT_Glut-CGN-frac
+longLabel Aging Mouse Brain L23_IT_ENT_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L23_IT_ENT_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646853
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L23_IT_ENT_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_ENT_Glut-CGN-frac on
+
+    track L23_IT_ENT_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646466
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L23_IT_ENT_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_ENT_Glut-CGN-frac on
+
+    track L23_IT_ENT_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645968
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L23_IT_ENT_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_ENT_Glut-CGN-frac on
+
+track L23_IT_ENTl-PIR_Glut-CGN-frac
+shortLabel L23_IT_ENTl-PIR_Glut-CGN-frac
+longLabel Aging Mouse Brain L23_IT_ENTl-PIR_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L23_IT_ENTl-PIR_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645965
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L23_IT_ENTl-PIR_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_ENTl-PIR_Glut-CGN-frac on
+
+    track L23_IT_ENTl-PIR_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645368
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L23_IT_ENTl-PIR_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_ENTl-PIR_Glut-CGN-frac on
+
+    track L23_IT_ENTl-PIR_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646682
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L23_IT_ENTl-PIR_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_ENTl-PIR_Glut-CGN-frac on
+
+track L23_IT_PPP_Glut-CGN-frac
+shortLabel L23_IT_PPP_Glut-CGN-frac
+longLabel Aging Mouse Brain L23_IT_PPP_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L23_IT_PPP_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646556
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L23_IT_PPP_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_PPP_Glut-CGN-frac on
+
+    track L23_IT_PPP_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646919
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L23_IT_PPP_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_PPP_Glut-CGN-frac on
+
+    track L23_IT_PPP_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645536
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L23_IT_PPP_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L23_IT_PPP_Glut-CGN-frac on
+
+track L2_IT_PPP-APr_Glut-CGN-frac
+shortLabel L2_IT_PPP-APr_Glut-CGN-frac
+longLabel Aging Mouse Brain L2_IT_PPP-APr_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L2_IT_PPP-APr_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645494
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L2_IT_PPP-APr_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L2_IT_PPP-APr_Glut-CGN-frac on
+
+    track L2_IT_PPP-APr_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646094
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L2_IT_PPP-APr_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L2_IT_PPP-APr_Glut-CGN-frac on
+
+    track L2_IT_PPP-APr_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646523
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L2_IT_PPP-APr_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L2_IT_PPP-APr_Glut-CGN-frac on
+
+track L45_IT_CTX_Glut-CGN-frac
+shortLabel L45_IT_CTX_Glut-CGN-frac
+longLabel Aging Mouse Brain L45_IT_CTX_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L45_IT_CTX_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646826
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L45_IT_CTX_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L45_IT_CTX_Glut-CGN-frac on
+
+    track L45_IT_CTX_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646472
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L45_IT_CTX_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L45_IT_CTX_Glut-CGN-frac on
+
+    track L45_IT_CTX_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645740
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L45_IT_CTX_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L45_IT_CTX_Glut-CGN-frac on
+
+track L5_ET_CTX_Glut-CGN-frac
+shortLabel L5_ET_CTX_Glut-CGN-frac
+longLabel Aging Mouse Brain L5_ET_CTX_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L5_ET_CTX_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646886
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L5_ET_CTX_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_ET_CTX_Glut-CGN-frac on
+
+    track L5_ET_CTX_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646496
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L5_ET_CTX_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_ET_CTX_Glut-CGN-frac on
+
+    track L5_ET_CTX_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646973
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L5_ET_CTX_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_ET_CTX_Glut-CGN-frac on
+
+track L5_IT_CTX_Glut-CGN-frac
+shortLabel L5_IT_CTX_Glut-CGN-frac
+longLabel Aging Mouse Brain L5_IT_CTX_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L5_IT_CTX_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646133
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L5_IT_CTX_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_IT_CTX_Glut-CGN-frac on
+
+    track L5_IT_CTX_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645854
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L5_IT_CTX_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_IT_CTX_Glut-CGN-frac on
+
+    track L5_IT_CTX_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645977
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L5_IT_CTX_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_IT_CTX_Glut-CGN-frac on
+
+track L5_NP_CTX_Glut-CGN-frac
+shortLabel L5_NP_CTX_Glut-CGN-frac
+longLabel Aging Mouse Brain L5_NP_CTX_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L5_NP_CTX_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645935
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L5_NP_CTX_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_NP_CTX_Glut-CGN-frac on
+
+    track L5_NP_CTX_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645674
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L5_NP_CTX_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_NP_CTX_Glut-CGN-frac on
+
+    track L5_NP_CTX_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645818
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L5_NP_CTX_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L5_NP_CTX_Glut-CGN-frac on
+
+track L6_CT_CTX_Glut-CGN-frac
+shortLabel L6_CT_CTX_Glut-CGN-frac
+longLabel Aging Mouse Brain L6_CT_CTX_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L6_CT_CTX_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645263
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L6_CT_CTX_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6_CT_CTX_Glut-CGN-frac on
+
+    track L6_CT_CTX_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646703
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L6_CT_CTX_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6_CT_CTX_Glut-CGN-frac on
+
+    track L6_CT_CTX_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645281
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L6_CT_CTX_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6_CT_CTX_Glut-CGN-frac on
+
+track L6_IT_CTX_Glut-CGN-frac
+shortLabel L6_IT_CTX_Glut-CGN-frac
+longLabel Aging Mouse Brain L6_IT_CTX_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L6_IT_CTX_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645791
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L6_IT_CTX_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6_IT_CTX_Glut-CGN-frac on
+
+    track L6_IT_CTX_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646739
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L6_IT_CTX_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6_IT_CTX_Glut-CGN-frac on
+
+    track L6_IT_CTX_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646760
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L6_IT_CTX_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6_IT_CTX_Glut-CGN-frac on
+
+track L6bCT_ENT_Glut-CGN-frac
+shortLabel L6bCT_ENT_Glut-CGN-frac
+longLabel Aging Mouse Brain L6bCT_ENT_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track L6bCT_ENT_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646001
+    shortLabel 8wk
+    longLabel Aging Mouse Brain L6bCT_ENT_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6bCT_ENT_Glut-CGN-frac on
+
+    track L6bCT_ENT_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646829
+    shortLabel 18mo
+    longLabel Aging Mouse Brain L6bCT_ENT_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6bCT_ENT_Glut-CGN-frac on
+
+    track L6bCT_ENT_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646961
+    shortLabel 9mo
+    longLabel Aging Mouse Brain L6bCT_ENT_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent L6bCT_ENT_Glut-CGN-frac on
+
+track LA-BLA-BMA-PA_Glut-CGN-frac
+shortLabel LA-BLA-BMA-PA_Glut-CGN-frac
+longLabel Aging Mouse Brain LA-BLA-BMA-PA_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track LA-BLA-BMA-PA_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645182
+    shortLabel 9mo
+    longLabel Aging Mouse Brain LA-BLA-BMA-PA_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent LA-BLA-BMA-PA_Glut-CGN-frac on
+
+    track LA-BLA-BMA-PA_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646751
+    shortLabel 8wk
+    longLabel Aging Mouse Brain LA-BLA-BMA-PA_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent LA-BLA-BMA-PA_Glut-CGN-frac on
+
+    track LA-BLA-BMA-PA_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645479
+    shortLabel 18mo
+    longLabel Aging Mouse Brain LA-BLA-BMA-PA_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent LA-BLA-BMA-PA_Glut-CGN-frac on
+
+track LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac
+shortLabel LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac
+longLabel Aging Mouse Brain LDT-PCG-CS_Gata3_Lhx1_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645323
+    shortLabel 18mo
+    longLabel Aging Mouse Brain LDT-PCG-CS_Gata3_Lhx1_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac on
+
+    track LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645683
+    shortLabel 8wk
+    longLabel Aging Mouse Brain LDT-PCG-CS_Gata3_Lhx1_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac on
+
+    track LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646481
+    shortLabel 9mo
+    longLabel Aging Mouse Brain LDT-PCG-CS_Gata3_Lhx1_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent LDT-PCG-CS_Gata3_Lhx1_Gaba-CGN-frac on
+
+track Lamp5_Gaba-CGN-frac
+shortLabel Lamp5_Gaba-CGN-frac
+longLabel Aging Mouse Brain Lamp5_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Lamp5_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645383
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Lamp5_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Lamp5_Gaba-CGN-frac on
+
+    track Lamp5_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646580
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Lamp5_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Lamp5_Gaba-CGN-frac on
+
+    track Lamp5_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646718
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Lamp5_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Lamp5_Gaba-CGN-frac on
+
+track MB-MY_Tph2_Glut-Sero-CGN-frac
+shortLabel MB-MY_Tph2_Glut-Sero-CGN-frac
+longLabel Aging Mouse Brain MB-MY_Tph2_Glut-Sero CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track MB-MY_Tph2_Glut-Sero-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646679
+    shortLabel 9mo
+    longLabel Aging Mouse Brain MB-MY_Tph2_Glut-Sero CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MB-MY_Tph2_Glut-Sero-CGN-frac on
+
+    track MB-MY_Tph2_Glut-Sero-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645827
+    shortLabel 18mo
+    longLabel Aging Mouse Brain MB-MY_Tph2_Glut-Sero CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MB-MY_Tph2_Glut-Sero-CGN-frac on
+
+    track MB-MY_Tph2_Glut-Sero-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645929
+    shortLabel 8wk
+    longLabel Aging Mouse Brain MB-MY_Tph2_Glut-Sero CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MB-MY_Tph2_Glut-Sero-CGN-frac on
+
+track MEA-BST_Gaba-CGN-frac
+shortLabel MEA-BST_Gaba-CGN-frac
+longLabel Aging Mouse Brain MEA-BST_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track MEA-BST_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645491
+    shortLabel 18mo
+    longLabel Aging Mouse Brain MEA-BST_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-BST_Gaba-CGN-frac on
+
+    track MEA-BST_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646664
+    shortLabel 9mo
+    longLabel Aging Mouse Brain MEA-BST_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-BST_Gaba-CGN-frac on
+
+    track MEA-BST_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646142
+    shortLabel 8wk
+    longLabel Aging Mouse Brain MEA-BST_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-BST_Gaba-CGN-frac on
+
+track MEA-COA_Glut-CGN-frac
+shortLabel MEA-COA_Glut-CGN-frac
+longLabel Aging Mouse Brain MEA-COA_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track MEA-COA_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646016
+    shortLabel 8wk
+    longLabel Aging Mouse Brain MEA-COA_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-COA_Glut-CGN-frac on
+
+    track MEA-COA_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646769
+    shortLabel 9mo
+    longLabel Aging Mouse Brain MEA-COA_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-COA_Glut-CGN-frac on
+
+    track MEA-COA_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646784
+    shortLabel 18mo
+    longLabel Aging Mouse Brain MEA-COA_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-COA_Glut-CGN-frac on
+
+track MEA-COAp_Glut-CGN-frac
+shortLabel MEA-COAp_Glut-CGN-frac
+longLabel Aging Mouse Brain MEA-COAp_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track MEA-COAp_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646502
+    shortLabel 18mo
+    longLabel Aging Mouse Brain MEA-COAp_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-COAp_Glut-CGN-frac on
+
+    track MEA-COAp_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646631
+    shortLabel 9mo
+    longLabel Aging Mouse Brain MEA-COAp_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-COAp_Glut-CGN-frac on
+
+    track MEA-COAp_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645785
+    shortLabel 8wk
+    longLabel Aging Mouse Brain MEA-COAp_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MEA-COAp_Glut-CGN-frac on
+
+track MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac
+shortLabel MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac
+longLabel Aging Mouse Brain MRN-VTN-PPN_Pax5_Cdh23_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645185
+    shortLabel 9mo
+    longLabel Aging Mouse Brain MRN-VTN-PPN_Pax5_Cdh23_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac on
+
+    track MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646529
+    shortLabel 18mo
+    longLabel Aging Mouse Brain MRN-VTN-PPN_Pax5_Cdh23_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac on
+
+    track MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646808
+    shortLabel 8wk
+    longLabel Aging Mouse Brain MRN-VTN-PPN_Pax5_Cdh23_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent MRN-VTN-PPN_Pax5_Cdh23_Gaba-CGN-frac on
+
+track Microglia_NN-CGN-frac
+shortLabel Microglia_NN-CGN-frac
+longLabel Aging Mouse Brain Microglia_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Microglia_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646265
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Microglia_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Microglia_NN-CGN-frac on
+
+    track Microglia_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645971
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Microglia_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Microglia_NN-CGN-frac on
+
+    track Microglia_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646892
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Microglia_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Microglia_NN-CGN-frac on
+
+track NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac
+shortLabel NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac
+longLabel Aging Mouse Brain NDB-SI-MA-STRv_Lhx8_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646793
+    shortLabel 9mo
+    longLabel Aging Mouse Brain NDB-SI-MA-STRv_Lhx8_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac on
+
+    track NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646520
+    shortLabel 18mo
+    longLabel Aging Mouse Brain NDB-SI-MA-STRv_Lhx8_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac on
+
+    track NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646733
+    shortLabel 8wk
+    longLabel Aging Mouse Brain NDB-SI-MA-STRv_Lhx8_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NDB-SI-MA-STRv_Lhx8_Gaba-CGN-frac on
+
+track NP_SUB_Glut-CGN-frac
+shortLabel NP_SUB_Glut-CGN-frac
+longLabel Aging Mouse Brain NP_SUB_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track NP_SUB_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645176
+    shortLabel 8wk
+    longLabel Aging Mouse Brain NP_SUB_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NP_SUB_Glut-CGN-frac on
+
+    track NP_SUB_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646322
+    shortLabel 9mo
+    longLabel Aging Mouse Brain NP_SUB_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NP_SUB_Glut-CGN-frac on
+
+    track NP_SUB_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645770
+    shortLabel 18mo
+    longLabel Aging Mouse Brain NP_SUB_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent NP_SUB_Glut-CGN-frac on
+
+track OPC_NN-CGN-frac
+shortLabel OPC_NN-CGN-frac
+longLabel Aging Mouse Brain OPC_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track OPC_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645671
+    shortLabel 8wk
+    longLabel Aging Mouse Brain OPC_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent OPC_NN-CGN-frac on
+
+    track OPC_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645650
+    shortLabel 9mo
+    longLabel Aging Mouse Brain OPC_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent OPC_NN-CGN-frac on
+
+    track OPC_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645179
+    shortLabel 18mo
+    longLabel Aging Mouse Brain OPC_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent OPC_NN-CGN-frac on
+
+track OT_D3_Folh1_Gaba-CGN-frac
+shortLabel OT_D3_Folh1_Gaba-CGN-frac
+longLabel Aging Mouse Brain OT_D3_Folh1_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track OT_D3_Folh1_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646463
+    shortLabel 8wk
+    longLabel Aging Mouse Brain OT_D3_Folh1_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent OT_D3_Folh1_Gaba-CGN-frac on
+
+    track OT_D3_Folh1_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646676
+    shortLabel 9mo
+    longLabel Aging Mouse Brain OT_D3_Folh1_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent OT_D3_Folh1_Gaba-CGN-frac on
+
+    track OT_D3_Folh1_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645419
+    shortLabel 18mo
+    longLabel Aging Mouse Brain OT_D3_Folh1_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent OT_D3_Folh1_Gaba-CGN-frac on
+
+track Oligo_NN-CGN-frac
+shortLabel Oligo_NN-CGN-frac
+longLabel Aging Mouse Brain Oligo_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Oligo_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645344
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Oligo_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Oligo_NN-CGN-frac on
+
+    track Oligo_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645551
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Oligo_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Oligo_NN-CGN-frac on
+
+    track Oligo_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646103
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Oligo_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Oligo_NN-CGN-frac on
+
+track PAG-MRN_Pou3f1_Glut-CGN-frac
+shortLabel PAG-MRN_Pou3f1_Glut-CGN-frac
+longLabel Aging Mouse Brain PAG-MRN_Pou3f1_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track PAG-MRN_Pou3f1_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645332
+    shortLabel 8wk
+    longLabel Aging Mouse Brain PAG-MRN_Pou3f1_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-MRN_Pou3f1_Glut-CGN-frac on
+
+    track PAG-MRN_Pou3f1_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645446
+    shortLabel 18mo
+    longLabel Aging Mouse Brain PAG-MRN_Pou3f1_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-MRN_Pou3f1_Glut-CGN-frac on
+
+    track PAG-MRN_Pou3f1_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645326
+    shortLabel 9mo
+    longLabel Aging Mouse Brain PAG-MRN_Pou3f1_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-MRN_Pou3f1_Glut-CGN-frac on
+
+track PAG-PCG-CGN-frac
+shortLabel PAG-PCG-CGN-frac
+longLabel Aging Mouse Brain PAG-PCG CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track PAG-PCG-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645695
+    shortLabel 9mo
+    longLabel Aging Mouse Brain PAG-PCG CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-PCG-CGN-frac on
+
+    track PAG-PCG-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645824
+    shortLabel 8wk
+    longLabel Aging Mouse Brain PAG-PCG CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-PCG-CGN-frac on
+
+    track PAG-PCG-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646319
+    shortLabel 18mo
+    longLabel Aging Mouse Brain PAG-PCG CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-PCG-CGN-frac on
+
+track PAG-PPN_Pax5_Sox21_Gaba-CGN-frac
+shortLabel PAG-PPN_Pax5_Sox21_Gaba-CGN-frac
+longLabel Aging Mouse Brain PAG-PPN_Pax5_Sox21_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track PAG-PPN_Pax5_Sox21_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645290
+    shortLabel 9mo
+    longLabel Aging Mouse Brain PAG-PPN_Pax5_Sox21_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-PPN_Pax5_Sox21_Gaba-CGN-frac on
+
+    track PAG-PPN_Pax5_Sox21_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645764
+    shortLabel 8wk
+    longLabel Aging Mouse Brain PAG-PPN_Pax5_Sox21_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-PPN_Pax5_Sox21_Gaba-CGN-frac on
+
+    track PAG-PPN_Pax5_Sox21_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646118
+    shortLabel 18mo
+    longLabel Aging Mouse Brain PAG-PPN_Pax5_Sox21_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG-PPN_Pax5_Sox21_Gaba-CGN-frac on
+
+track PAG_Glut-CGN-frac
+shortLabel PAG_Glut-CGN-frac
+longLabel Aging Mouse Brain PAG_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track PAG_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646514
+    shortLabel 9mo
+    longLabel Aging Mouse Brain PAG_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG_Glut-CGN-frac on
+
+    track PAG_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646121
+    shortLabel 8wk
+    longLabel Aging Mouse Brain PAG_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG_Glut-CGN-frac on
+
+    track PAG_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645989
+    shortLabel 18mo
+    longLabel Aging Mouse Brain PAG_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PAG_Glut-CGN-frac on
+
+track PB_Evx2_Glut-CGN-frac
+shortLabel PB_Evx2_Glut-CGN-frac
+longLabel Aging Mouse Brain PB_Evx2_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track PB_Evx2_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645584
+    shortLabel 9mo
+    longLabel Aging Mouse Brain PB_Evx2_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PB_Evx2_Glut-CGN-frac on
+
+    track PB_Evx2_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646844
+    shortLabel 8wk
+    longLabel Aging Mouse Brain PB_Evx2_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PB_Evx2_Glut-CGN-frac on
+
+    track PB_Evx2_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645452
+    shortLabel 18mo
+    longLabel Aging Mouse Brain PB_Evx2_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent PB_Evx2_Glut-CGN-frac on
+
+track Pvalb_Gaba-CGN-frac
+shortLabel Pvalb_Gaba-CGN-frac
+longLabel Aging Mouse Brain Pvalb_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Pvalb_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645893
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Pvalb_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Pvalb_Gaba-CGN-frac on
+
+    track Pvalb_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646013
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Pvalb_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Pvalb_Gaba-CGN-frac on
+
+    track Pvalb_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645440
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Pvalb_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Pvalb_Gaba-CGN-frac on
+
+track STR-PAL_Chst9_Gaba-CGN-frac
+shortLabel STR-PAL_Chst9_Gaba-CGN-frac
+longLabel Aging Mouse Brain STR-PAL_Chst9_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track STR-PAL_Chst9_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646115
+    shortLabel 18mo
+    longLabel Aging Mouse Brain STR-PAL_Chst9_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR-PAL_Chst9_Gaba-CGN-frac on
+
+    track STR-PAL_Chst9_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645917
+    shortLabel 8wk
+    longLabel Aging Mouse Brain STR-PAL_Chst9_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR-PAL_Chst9_Gaba-CGN-frac on
+
+    track STR-PAL_Chst9_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646562
+    shortLabel 9mo
+    longLabel Aging Mouse Brain STR-PAL_Chst9_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR-PAL_Chst9_Gaba-CGN-frac on
+
+track STR_D1_Gaba-CGN-frac
+shortLabel STR_D1_Gaba-CGN-frac
+longLabel Aging Mouse Brain STR_D1_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track STR_D1_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645539
+    shortLabel 18mo
+    longLabel Aging Mouse Brain STR_D1_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D1_Gaba-CGN-frac on
+
+    track STR_D1_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645710
+    shortLabel 8wk
+    longLabel Aging Mouse Brain STR_D1_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D1_Gaba-CGN-frac on
+
+    track STR_D1_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645773
+    shortLabel 9mo
+    longLabel Aging Mouse Brain STR_D1_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D1_Gaba-CGN-frac on
+
+track STR_D1_Sema5a_Gaba-CGN-frac
+shortLabel STR_D1_Sema5a_Gaba-CGN-frac
+longLabel Aging Mouse Brain STR_D1_Sema5a_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track STR_D1_Sema5a_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646940
+    shortLabel 8wk
+    longLabel Aging Mouse Brain STR_D1_Sema5a_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D1_Sema5a_Gaba-CGN-frac on
+
+    track STR_D1_Sema5a_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645485
+    shortLabel 18mo
+    longLabel Aging Mouse Brain STR_D1_Sema5a_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D1_Sema5a_Gaba-CGN-frac on
+
+    track STR_D1_Sema5a_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645890
+    shortLabel 9mo
+    longLabel Aging Mouse Brain STR_D1_Sema5a_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D1_Sema5a_Gaba-CGN-frac on
+
+track STR_D2_Gaba-CGN-frac
+shortLabel STR_D2_Gaba-CGN-frac
+longLabel Aging Mouse Brain STR_D2_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track STR_D2_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646865
+    shortLabel 9mo
+    longLabel Aging Mouse Brain STR_D2_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D2_Gaba-CGN-frac on
+
+    track STR_D2_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646028
+    shortLabel 8wk
+    longLabel Aging Mouse Brain STR_D2_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D2_Gaba-CGN-frac on
+
+    track STR_D2_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646157
+    shortLabel 18mo
+    longLabel Aging Mouse Brain STR_D2_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_D2_Gaba-CGN-frac on
+
+track STR_Gaba-CGN-frac
+shortLabel STR_Gaba-CGN-frac
+longLabel Aging Mouse Brain STR_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track STR_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645725
+    shortLabel 18mo
+    longLabel Aging Mouse Brain STR_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_Gaba-CGN-frac on
+
+    track STR_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646058
+    shortLabel 8wk
+    longLabel Aging Mouse Brain STR_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_Gaba-CGN-frac on
+
+    track STR_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646637
+    shortLabel 9mo
+    longLabel Aging Mouse Brain STR_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent STR_Gaba-CGN-frac on
+
+track SUB-ProS_Glut-CGN-frac
+shortLabel SUB-ProS_Glut-CGN-frac
+longLabel Aging Mouse Brain SUB-ProS_Glut CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track SUB-ProS_Glut-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646454
+    shortLabel 9mo
+    longLabel Aging Mouse Brain SUB-ProS_Glut CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent SUB-ProS_Glut-CGN-frac on
+
+    track SUB-ProS_Glut-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645278
+    shortLabel 18mo
+    longLabel Aging Mouse Brain SUB-ProS_Glut CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent SUB-ProS_Glut-CGN-frac on
+
+    track SUB-ProS_Glut-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646667
+    shortLabel 8wk
+    longLabel Aging Mouse Brain SUB-ProS_Glut CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent SUB-ProS_Glut-CGN-frac on
+
+track Sst_Chodl_Gaba-CGN-frac
+shortLabel Sst_Chodl_Gaba-CGN-frac
+longLabel Aging Mouse Brain Sst_Chodl_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Sst_Chodl_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646949
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Sst_Chodl_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Sst_Chodl_Gaba-CGN-frac on
+
+    track Sst_Chodl_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645284
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Sst_Chodl_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Sst_Chodl_Gaba-CGN-frac on
+
+    track Sst_Chodl_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645923
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Sst_Chodl_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Sst_Chodl_Gaba-CGN-frac on
+
+track Sst_Gaba-CGN-frac
+shortLabel Sst_Gaba-CGN-frac
+longLabel Aging Mouse Brain Sst_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Sst_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646019
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Sst_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Sst_Gaba-CGN-frac on
+
+    track Sst_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645986
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Sst_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Sst_Gaba-CGN-frac on
+
+    track Sst_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645800
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Sst_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Sst_Gaba-CGN-frac on
+
+track VLMC_NN-CGN-frac
+shortLabel VLMC_NN-CGN-frac
+longLabel Aging Mouse Brain VLMC_NN CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track VLMC_NN-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645296
+    shortLabel 18mo
+    longLabel Aging Mouse Brain VLMC_NN CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent VLMC_NN-CGN-frac on
+
+    track VLMC_NN-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645212
+    shortLabel 9mo
+    longLabel Aging Mouse Brain VLMC_NN CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent VLMC_NN-CGN-frac on
+
+    track VLMC_NN-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44645425
+    shortLabel 8wk
+    longLabel Aging Mouse Brain VLMC_NN CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent VLMC_NN-CGN-frac on
+
+track VipSncg_Gaba-CGN-frac
+shortLabel VipSncg_Gaba-CGN-frac
+longLabel Aging Mouse Brain VipSncg_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track VipSncg_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645848
+    shortLabel 18mo
+    longLabel Aging Mouse Brain VipSncg_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent VipSncg_Gaba-CGN-frac on
+
+    track VipSncg_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646505
+    shortLabel 9mo
+    longLabel Aging Mouse Brain VipSncg_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent VipSncg_Gaba-CGN-frac on
+
+    track VipSncg_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646535
+    shortLabel 8wk
+    longLabel Aging Mouse Brain VipSncg_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent VipSncg_Gaba-CGN-frac on
+
+track Vip_Gaba-CGN-frac
+shortLabel Vip_Gaba-CGN-frac
+longLabel Aging Mouse Brain Vip_Gaba CGN
+type bigWig
+visibility dense
+compositeTrack on
+
+    track Vip_Gaba-CGN-frac_8wk
+    bigDataUrl https://figshare.com/ndownloader/files/44646670
+    shortLabel 8wk
+    longLabel Aging Mouse Brain Vip_Gaba CGN 8wk
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Vip_Gaba-CGN-frac on
+
+    track Vip_Gaba-CGN-frac_9mo
+    bigDataUrl https://figshare.com/ndownloader/files/44645692
+    shortLabel 9mo
+    longLabel Aging Mouse Brain Vip_Gaba CGN 9mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Vip_Gaba-CGN-frac on
+
+    track Vip_Gaba-CGN-frac_18mo
+    bigDataUrl https://figshare.com/ndownloader/files/44646832
+    shortLabel 18mo
+    longLabel Aging Mouse Brain Vip_Gaba CGN 18mo
+    type bigWig
+    visibility dense
+    color 0,0,255
+    autoScale off
+    maxHeightPixels 100:15:5
+    viewLimits 0:1
+    parent Vip_Gaba-CGN-frac on
