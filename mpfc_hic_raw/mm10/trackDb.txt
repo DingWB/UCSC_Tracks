@@ -1,0 +1,270 @@
+track Exc
+shortLabel Exc
+longLabel Mouse PFC snm3c Exc
+type hic
+visibility dense
+compositeTrack on
+
+    track Exc_IT-L4
+    bigDataUrl https://figshare.com/ndownloader/files/44673850
+    shortLabel ITL4
+    longLabel Mouse PFC snm3c Exc IT-L4
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_L6b
+    bigDataUrl https://figshare.com/ndownloader/files/44673880
+    shortLabel L6b
+    longLabel Mouse PFC snm3c Exc L6b
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_ET-L5
+    bigDataUrl https://figshare.com/ndownloader/files/44673883
+    shortLabel ETL5
+    longLabel Mouse PFC snm3c Exc ET-L5
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_CT-L6
+    bigDataUrl https://figshare.com/ndownloader/files/44673886
+    shortLabel CTL6
+    longLabel Mouse PFC snm3c Exc CT-L6
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_NP-L6
+    bigDataUrl https://figshare.com/ndownloader/files/44673910
+    shortLabel NPL6
+    longLabel Mouse PFC snm3c Exc NP-L6
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_IT-L6
+    bigDataUrl https://figshare.com/ndownloader/files/44673928
+    shortLabel ITL6
+    longLabel Mouse PFC snm3c Exc IT-L6
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_Exc-Unk
+    bigDataUrl https://figshare.com/ndownloader/files/44673937
+    shortLabel ExcUnk
+    longLabel Mouse PFC snm3c Exc Exc-Unk
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_IT-L5
+    bigDataUrl https://figshare.com/ndownloader/files/44673946
+    shortLabel ITL5
+    longLabel Mouse PFC snm3c Exc IT-L5
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+    track Exc_IT-L23
+    bigDataUrl https://figshare.com/ndownloader/files/44673955
+    shortLabel ITL23
+    longLabel Mouse PFC snm3c Exc IT-L23
+    type hic
+    color 255,0,0
+    parent Exc
+    visibility dense
+
+track Inh
+shortLabel Inh
+longLabel Mouse PFC snm3c Inh
+type hic
+visibility dense
+compositeTrack on
+
+    track Inh_CGE-Lamp5
+    bigDataUrl https://figshare.com/ndownloader/files/44673871
+    shortLabel CGELamp5
+    longLabel Mouse PFC snm3c Inh CGE-Lamp5
+    type hic
+    color 255,0,0
+    parent Inh
+    visibility dense
+
+    track Inh_MGE-Sst
+    bigDataUrl https://figshare.com/ndownloader/files/44673874
+    shortLabel MGESst
+    longLabel Mouse PFC snm3c Inh MGE-Sst
+    type hic
+    color 255,0,0
+    parent Inh
+    visibility dense
+
+    track Inh_CGE-Vip
+    bigDataUrl https://figshare.com/ndownloader/files/44673904
+    shortLabel CGEVip
+    longLabel Mouse PFC snm3c Inh CGE-Vip
+    type hic
+    color 255,0,0
+    parent Inh
+    visibility dense
+
+    track Inh_MGE-Pvalb
+    bigDataUrl https://figshare.com/ndownloader/files/44673931
+    shortLabel MGEPvalb
+    longLabel Mouse PFC snm3c Inh MGE-Pvalb
+    type hic
+    color 255,0,0
+    parent Inh
+    visibility dense
+
+track NonN
+shortLabel NonN
+longLabel Mouse PFC snm3c NonN
+type hic
+visibility dense
+compositeTrack on
+
+    track NonN_OPC
+    bigDataUrl https://figshare.com/ndownloader/files/44673847
+    shortLabel OPC
+    longLabel Mouse PFC snm3c NonN OPC
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+    track NonN_EC
+    bigDataUrl https://figshare.com/ndownloader/files/44673859
+    shortLabel EC
+    longLabel Mouse PFC snm3c NonN EC
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+    track NonN_PC
+    bigDataUrl https://figshare.com/ndownloader/files/44673877
+    shortLabel PC
+    longLabel Mouse PFC snm3c NonN PC
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+    track NonN_ASC
+    bigDataUrl https://figshare.com/ndownloader/files/44673889
+    shortLabel ASC
+    longLabel Mouse PFC snm3c NonN ASC
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+    track NonN_MGC
+    bigDataUrl https://figshare.com/ndownloader/files/44673901
+    shortLabel MGC
+    longLabel Mouse PFC snm3c NonN MGC
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+    track NonN_ODC
+    bigDataUrl https://figshare.com/ndownloader/files/44673907
+    shortLabel ODC
+    longLabel Mouse PFC snm3c NonN ODC
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+    track NonN_VLMC-Pia
+    bigDataUrl https://figshare.com/ndownloader/files/44673940
+    shortLabel VLMCPia
+    longLabel Mouse PFC snm3c NonN VLMC-Pia
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+    track NonN_VLMC
+    bigDataUrl https://figshare.com/ndownloader/files/44673952
+    shortLabel VLMC
+    longLabel Mouse PFC snm3c NonN VLMC
+    type hic
+    color 255,0,0
+    parent NonN
+    visibility dense
+
+track P
+shortLabel P
+longLabel Mouse PFC snm3c P
+type hic
+visibility dense
+compositeTrack on
+
+    track P_MGE-IP
+    bigDataUrl https://figshare.com/ndownloader/files/44673862
+    shortLabel MGEIP
+    longLabel Mouse PFC snm3c P MGE-IP
+    type hic
+    color 255,0,0
+    parent P
+    visibility dense
+
+    track P_AP
+    bigDataUrl https://figshare.com/ndownloader/files/44673868
+    shortLabel AP
+    longLabel Mouse PFC snm3c P AP
+    type hic
+    color 255,0,0
+    parent P
+    visibility dense
+
+    track P_CThPN
+    bigDataUrl https://figshare.com/ndownloader/files/44673895
+    shortLabel CThPN
+    longLabel Mouse PFC snm3c P CThPN
+    type hic
+    color 255,0,0
+    parent P
+    visibility dense
+
+    track P_CPN
+    bigDataUrl https://figshare.com/ndownloader/files/44673913
+    shortLabel CPN
+    longLabel Mouse PFC snm3c P CPN
+    type hic
+    color 255,0,0
+    parent P
+    visibility dense
+
+    track P_CGE-IP
+    bigDataUrl https://figshare.com/ndownloader/files/44673916
+    shortLabel CGEIP
+    longLabel Mouse PFC snm3c P CGE-IP
+    type hic
+    color 255,0,0
+    parent P
+    visibility dense
+
+    track P_SCPN
+    bigDataUrl https://figshare.com/ndownloader/files/44673925
+    shortLabel SCPN
+    longLabel Mouse PFC snm3c P SCPN
+    type hic
+    color 255,0,0
+    parent P
+    visibility dense

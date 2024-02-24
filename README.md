@@ -52,3 +52,21 @@ make_trackhub(
 	mc_types=['CGN'],count_types=['frac'],
 	max_mch=0.06)
 ```
+
+# mpfc_pseudobulk_raw_hic
+```shell
+pym3c upload_to_figshare --input_path ~/Projects/mouse_pfc/schicluster/pseudobulk_raw/hic --dataset_title mpfc_pseudobulk_raw_hic
+
+prepare_trackhub(
+	input_path="~/Projects/mouse_pfc/schicluster/pseudobulk_raw/hic",
+	short_label='Mouse PFC snm3c',
+	parent_info="~/Projects/mouse_pfc/clustering/5kb/major_type_to_cell_class.tsv",
+	parent='CellClass', output="trackhub_info.txt")
+	
+make_trackhub(
+	trackhub_info="trackhub_info.txt",tracktype='hic',
+	figshare_mapping="figshare.tsv",hub_name="mpfc_snm3c_hic",
+	short_label='Mouse PFC snm3c',
+	long_label='Mouse Prefrontal Cortex Single Cell Hi-C',
+	genome="mm10",email="wding@salk.edu")
+```
