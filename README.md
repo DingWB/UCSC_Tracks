@@ -66,7 +66,7 @@ prepare_trackhub(
 make_trackhub(
 	trackhub_info="trackhub_info.txt",tracktype='hic',
 	figshare_mapping="figshare.tsv",hub_name="mpfc_snm3c_hic",
-	short_label='Mouse PFC snm3c',
+	short_label='Mouse PFC snm3c HiC',
 	long_label='Mouse Prefrontal Cortex Single Cell Hi-C',
 	genome="mm10",email="wding@salk.edu")
 ```

@@ -1,5 +1,5 @@
 hub hub
-shortLabel Mouse PFC snm3c
+shortLabel Mouse PFC snm3c HiC
 longLabel Mouse Prefrontal Cortex Single Cell Hi-C
 genomesFile mpfc_snm3c_hic.genomes.txt
 email wding@salk.edu
