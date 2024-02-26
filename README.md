@@ -70,3 +70,5 @@ make_trackhub(
 	long_label='Mouse Prefrontal Cortex Single Cell Hi-C',
 	genome="mm10",email="wding@salk.edu")
 ```
+
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&hubUrl=https://github.com/DingWB/UCSC_Tracks/raw/main/mpfc_hic_raw/mpfc_snm3c_hic.hub.txt

@@ -6,7 +6,7 @@ visibility dense
 compositeTrack on
 
     track Exc_IT-L4
-    bigDataUrl https://figshare.com/ndownloader/files/44675971
+    bigDataUrl https://figshare.com/ndownloader/files/44683087
     shortLabel ITL4
     longLabel Mouse PFC snm3c Exc IT-L4
     type hic
@@ -15,7 +15,7 @@ compositeTrack on
     visibility dense
 
     track Exc_L6b
-    bigDataUrl https://figshare.com/ndownloader/files/44675995
+    bigDataUrl https://figshare.com/ndownloader/files/44683120
     shortLabel L6b
     longLabel Mouse PFC snm3c Exc L6b
     type hic
@@ -24,7 +24,7 @@ compositeTrack on
     visibility dense
 
     track Exc_ET-L5
-    bigDataUrl https://figshare.com/ndownloader/files/44675998
+    bigDataUrl https://figshare.com/ndownloader/files/44683123
     shortLabel ETL5
     longLabel Mouse PFC snm3c Exc ET-L5
     type hic
@@ -33,7 +33,7 @@ compositeTrack on
     visibility dense
 
     track Exc_CT-L6
-    bigDataUrl https://figshare.com/ndownloader/files/44676001
+    bigDataUrl https://figshare.com/ndownloader/files/44683126
     shortLabel CTL6
     longLabel Mouse PFC snm3c Exc CT-L6
     type hic
@@ -42,7 +42,7 @@ compositeTrack on
     visibility dense
 
     track Exc_NP-L6
-    bigDataUrl https://figshare.com/ndownloader/files/44676019
+    bigDataUrl https://figshare.com/ndownloader/files/44683159
     shortLabel NPL6
     longLabel Mouse PFC snm3c Exc NP-L6
     type hic
@@ -51,7 +51,7 @@ compositeTrack on
     visibility dense
 
     track Exc_IT-L6
-    bigDataUrl https://figshare.com/ndownloader/files/44676031
+    bigDataUrl https://figshare.com/ndownloader/files/44683171
     shortLabel ITL6
     longLabel Mouse PFC snm3c Exc IT-L6
     type hic
@@ -60,7 +60,7 @@ compositeTrack on
     visibility dense
 
     track Exc_Exc-Unk
-    bigDataUrl https://figshare.com/ndownloader/files/44676040
+    bigDataUrl https://figshare.com/ndownloader/files/44683180
     shortLabel ExcUnk
     longLabel Mouse PFC snm3c Exc Exc-Unk
     type hic
@@ -69,7 +69,7 @@ compositeTrack on
     visibility dense
 
     track Exc_IT-L5
-    bigDataUrl https://figshare.com/ndownloader/files/44676046
+    bigDataUrl https://figshare.com/ndownloader/files/44683186
     shortLabel ITL5
     longLabel Mouse PFC snm3c Exc IT-L5
     type hic
@@ -78,7 +78,7 @@ compositeTrack on
     visibility dense
 
     track Exc_IT-L23
-    bigDataUrl https://figshare.com/ndownloader/files/44676055
+    bigDataUrl https://figshare.com/ndownloader/files/44683192
     shortLabel ITL23
     longLabel Mouse PFC snm3c Exc IT-L23
     type hic
@@ -94,7 +94,7 @@ visibility dense
 compositeTrack on
 
     track Inh_CGE-Lamp5
-    bigDataUrl https://figshare.com/ndownloader/files/44675986
+    bigDataUrl https://figshare.com/ndownloader/files/44683108
     shortLabel CGELamp5
     longLabel Mouse PFC snm3c Inh CGE-Lamp5
     type hic
@@ -103,7 +103,7 @@ compositeTrack on
     visibility dense
 
     track Inh_MGE-Sst
-    bigDataUrl https://figshare.com/ndownloader/files/44675989
+    bigDataUrl https://figshare.com/ndownloader/files/44683111
     shortLabel MGESst
     longLabel Mouse PFC snm3c Inh MGE-Sst
     type hic
@@ -112,7 +112,7 @@ compositeTrack on
     visibility dense
 
     track Inh_CGE-Vip
-    bigDataUrl https://figshare.com/ndownloader/files/44676013
+    bigDataUrl https://figshare.com/ndownloader/files/44683150
     shortLabel CGEVip
     longLabel Mouse PFC snm3c Inh CGE-Vip
     type hic
@@ -121,7 +121,7 @@ compositeTrack on
     visibility dense
 
     track Inh_MGE-Pvalb
-    bigDataUrl https://figshare.com/ndownloader/files/44676037
+    bigDataUrl https://figshare.com/ndownloader/files/44683174
     shortLabel MGEPvalb
     longLabel Mouse PFC snm3c Inh MGE-Pvalb
     type hic
@@ -137,7 +137,7 @@ visibility dense
 compositeTrack on
 
     track NonN_OPC
-    bigDataUrl https://figshare.com/ndownloader/files/44675968
+    bigDataUrl https://figshare.com/ndownloader/files/44683081
     shortLabel OPC
     longLabel Mouse PFC snm3c NonN OPC
     type hic
@@ -146,7 +146,7 @@ compositeTrack on
     visibility dense
 
     track NonN_EC
-    bigDataUrl https://figshare.com/ndownloader/files/44675977
+    bigDataUrl https://figshare.com/ndownloader/files/44683093
     shortLabel EC
     longLabel Mouse PFC snm3c NonN EC
     type hic
@@ -155,7 +155,7 @@ compositeTrack on
     visibility dense
 
     track NonN_PC
-    bigDataUrl https://figshare.com/ndownloader/files/44675992
+    bigDataUrl https://figshare.com/ndownloader/files/44683117
     shortLabel PC
     longLabel Mouse PFC snm3c NonN PC
     type hic
@@ -164,7 +164,7 @@ compositeTrack on
     visibility dense
 
     track NonN_ASC
-    bigDataUrl https://figshare.com/ndownloader/files/44676004
+    bigDataUrl https://figshare.com/ndownloader/files/44683129
     shortLabel ASC
     longLabel Mouse PFC snm3c NonN ASC
     type hic
@@ -173,7 +173,7 @@ compositeTrack on
     visibility dense
 
     track NonN_MGC
-    bigDataUrl https://figshare.com/ndownloader/files/44676010
+    bigDataUrl https://figshare.com/ndownloader/files/44683147
     shortLabel MGC
     longLabel Mouse PFC snm3c NonN MGC
     type hic
@@ -182,7 +182,7 @@ compositeTrack on
     visibility dense
 
     track NonN_ODC
-    bigDataUrl https://figshare.com/ndownloader/files/44676016
+    bigDataUrl https://figshare.com/ndownloader/files/44683156
     shortLabel ODC
     longLabel Mouse PFC snm3c NonN ODC
     type hic
@@ -191,7 +191,7 @@ compositeTrack on
     visibility dense
 
     track NonN_VLMC-Pia
-    bigDataUrl https://figshare.com/ndownloader/files/44676043
+    bigDataUrl https://figshare.com/ndownloader/files/44683183
     shortLabel VLMCPia
     longLabel Mouse PFC snm3c NonN VLMC-Pia
     type hic
@@ -200,7 +200,7 @@ compositeTrack on
     visibility dense
 
     track NonN_VLMC
-    bigDataUrl https://figshare.com/ndownloader/files/44676052
+    bigDataUrl https://figshare.com/ndownloader/files/44683189
     shortLabel VLMC
     longLabel Mouse PFC snm3c NonN VLMC
     type hic
@@ -216,7 +216,7 @@ visibility dense
 compositeTrack on
 
     track P_MGE-IP
-    bigDataUrl https://figshare.com/ndownloader/files/44675980
+    bigDataUrl https://figshare.com/ndownloader/files/44683099
     shortLabel MGEIP
     longLabel Mouse PFC snm3c P MGE-IP
     type hic
@@ -225,7 +225,7 @@ compositeTrack on
     visibility dense
 
     track P_AP
-    bigDataUrl https://figshare.com/ndownloader/files/44675983
+    bigDataUrl https://figshare.com/ndownloader/files/44683105
     shortLabel AP
     longLabel Mouse PFC snm3c P AP
     type hic
@@ -234,7 +234,7 @@ compositeTrack on
     visibility dense
 
     track P_CThPN
-    bigDataUrl https://figshare.com/ndownloader/files/44676007
+    bigDataUrl https://figshare.com/ndownloader/files/44683138
     shortLabel CThPN
     longLabel Mouse PFC snm3c P CThPN
     type hic
@@ -243,7 +243,7 @@ compositeTrack on
     visibility dense
 
     track P_CPN
-    bigDataUrl https://figshare.com/ndownloader/files/44676022
+    bigDataUrl https://figshare.com/ndownloader/files/44683162
     shortLabel CPN
     longLabel Mouse PFC snm3c P CPN
     type hic
@@ -252,7 +252,7 @@ compositeTrack on
     visibility dense
 
     track P_CGE-IP
-    bigDataUrl https://figshare.com/ndownloader/files/44676025
+    bigDataUrl https://figshare.com/ndownloader/files/44683165
     shortLabel CGEIP
     longLabel Mouse PFC snm3c P CGE-IP
     type hic
@@ -261,7 +261,7 @@ compositeTrack on
     visibility dense
 
     track P_SCPN
-    bigDataUrl https://figshare.com/ndownloader/files/44676028
+    bigDataUrl https://figshare.com/ndownloader/files/44683168
     shortLabel SCPN
     longLabel Mouse PFC snm3c P SCPN
     type hic
